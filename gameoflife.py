@@ -81,3 +81,5 @@ class Solution:
                 else :
                     if live == 3 :
                         board[i][j] = 1
+                        
+#understanding the logic
